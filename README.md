@@ -11,7 +11,7 @@ and extra dark backgrounds.
 
 ## Scripts
 
-* [Gradescope](Gradescope Dark Mode.user.js):
+* [Gradescope](Gradescope%20Dark%20Mode.user.js):
   Inverted PDF viewer with adjustable brightness
-* [MIT WebSIS](WebSIS Dark Mode.user.js)
-* [Workflowy](Workflowy Black.user.js) (makes Dark theme extra dark)
+* [MIT WebSIS](WebSIS%20Dark%20Mode.user.js)
+* [Workflowy](Workflowy%20Black.user.js) (makes Dark theme extra dark)
