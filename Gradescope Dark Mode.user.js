@@ -8,6 +8,7 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gradescope.com
 // @grant        none
 // @license      MIT
+// @website      https://github.com/edemaine/dark-monkey
 // ==/UserScript==
 
 (function() {
