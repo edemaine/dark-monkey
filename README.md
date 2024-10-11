@@ -15,7 +15,6 @@ These scripts are available from [Greasy Fork](https://greasyfork.org/en/users/1
 
 ## Motivation
 
-I generally use
-[Night Eye](https://chrome.google.com/webstore/detail/dark-mode-night-eye/alncdjedloppbablonallfbkeiknmkdi)
+I generally use [Dark Reader](https://darkreader.org/)
 to make most websites dark, but sometimes I want more control
 and extra dark backgrounds.
