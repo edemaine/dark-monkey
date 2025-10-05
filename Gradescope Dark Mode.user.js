@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Gradescope Dark Mode
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @description  Invert color of PDF viewer. Adjust brightness via -/+ keys.
 // @author       Erik Demaine
 // @match        https://www.gradescope.com/*
@@ -21,6 +21,7 @@
     update();
 
     window.addEventListener('keydown', (e) => {
+        if (e.target.nodeName === 'TEXTAREA') return;
         if (e.key === '+' || e.key === '=') {
             brightness += 0.1;
             update();
